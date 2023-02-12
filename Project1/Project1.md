@@ -288,4 +288,4 @@ Submit the resulting .ipynb to ELMS and a .pdf version of the file to Gradescope
 
 ### Group work
 
-You are encouraged to work in small groups, but you must prepare your own writeup and submit it. Include the names of the peers who you worked with in the writeup.
+You are encouraged to work in small groups of at most 3, but you must prepare your own writeup and submit it. Include the names of the peers who you worked with in the writeup.
